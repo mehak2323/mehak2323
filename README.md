@@ -41,5 +41,5 @@ I have knowledge of C, C++, Python, Matlab, MySQL, basics of Machine Learning an
 
 ![Mehak's github stats](https://github-readme-stats.vercel.app/api?username=mehak2323&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-mehak2323.mehak2323)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehak2323.mehak2323)
 <br />
