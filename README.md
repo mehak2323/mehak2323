@@ -30,14 +30,13 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 I’m an student pursuing my Bachelors in Computer Science & Engineering. I recently started Open-Source and would like to learn more about it. </br>
-I have knowledge of C, C++, Python, Matlab, MySQL, basics of Machine Learning and Computer Vision. I enjoy learning new things. </br>
+I have knowledge of C, C++, Java, Python, Matlab, MySQL, Android development, basics of Machine Learning and Computer Vision. I like learning new things. </br>
 
 - 🔭 I’m currently working on data structure and algorithms.
 - 🌱 I’m currently learning cse fundamentals.
 - 🤔 I’m looking for help with Android with Kotlin.
 - 💬 Ask me about C++.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I switched to C++ from C for inputting string without defined length.
 
 ![Mehak's github stats](https://github-readme-stats.vercel.app/api?username=mehak2323&show_icons=true&hide_border=true)
 <br />
